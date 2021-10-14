@@ -6,3 +6,8 @@ composed of one or more overlapping objects. It has two primary steps. First, a 
 a compressed image and the pool is filtered by an overlaying method. Second, the concave points on the contour of the region of interest are extracted by polygon
 approximation to divide the contour into segments. Then the optimal ellipses are selected from among the candidates by choosing a minimal subset that best fits the
 identified segments.
+
+# Prerequisites
+
+1. DipImage 2.9
+2. MATLAB_R2021b (Image Processing Toolbox, Statistics and Machine Learning Toolbox, Optimization Toolbox)
