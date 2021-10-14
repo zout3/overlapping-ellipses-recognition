@@ -19,5 +19,7 @@ Run test.m to see an example of ellipse recognition
 # Example
 
 ![GitHub Example](/pics/example.jpg)
+*Original Image*
 
 ![GitHub result](/pics/result.jpg)
+*Result*
