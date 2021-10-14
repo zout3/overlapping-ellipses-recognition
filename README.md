@@ -9,5 +9,15 @@ identified segments.
 
 # Prerequisites
 
-1. DipImage 2.9
+1. DipImage 2.9 (default path at "D:\Program Files\DIPimage 2.9\dipstart.m")
 2. MATLAB_R2021b (Image Processing Toolbox, Statistics and Machine Learning Toolbox, Optimization Toolbox)
+
+# Notes
+
+Run test.m to see an example of ellipse recognition
+
+# Example
+
+![GitHub Example](/pics/example.jpg)
+
+![GitHub result](/pics/result.jpg)
