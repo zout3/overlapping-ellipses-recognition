@@ -9,8 +9,8 @@ identified segments.
 
 # Prerequisites
 
-1. DipImage 2.9 (default path at "D:\Program Files\DIPimage 2.9\dipstart.m")
-2. MATLAB_R2021b (Image Processing Toolbox, Statistics and Machine Learning Toolbox, Optimization Toolbox)
+1. DIPImage 2.9 ("MATLAB/test.m" assumes DIPimage is installed at "D:\Program Files\DIPimage 2.9\dipstart.m")
+4. MATLAB_R2021b (Image Processing Toolbox, Statistics and Machine Learning Toolbox, Optimization Toolbox)
 
 # Notes
 
