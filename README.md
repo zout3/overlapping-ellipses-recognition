@@ -14,7 +14,8 @@ identified segments.
 
 # Notes
 
-Run test.m to see an example of ellipse recognition
+Run "MATLAB/test.m" to see an example of ellipse recognition
+The code reads input image "example.jpg" from the pics directory and produces output "result.jpg" in the pics directory
 
 # Example
 
