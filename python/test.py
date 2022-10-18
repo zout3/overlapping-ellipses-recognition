@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 17 23:06:54 2022
-
-@author: 62309
-"""
 
 import cv2
 from ellipseRecognize import DTECMA
