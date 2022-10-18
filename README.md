@@ -9,12 +9,17 @@ identified segments.
 
 # Prerequisites
 
+## MATLAB
 1. DIPImage 2.9 ("MATLAB/test.m" assumes DIPimage is installed at "D:\Program Files\DIPimage 2.9\dipstart.m")
-4. MATLAB_R2021b (Image Processing Toolbox, Statistics and Machine Learning Toolbox, Optimization Toolbox)
+2. MATLAB_R2021b (Image Processing Toolbox, Statistics and Machine Learning Toolbox, Optimization Toolbox)
+
+## Python
+1. OpenCV
+2. CVXOPT and CVXPY
 
 # Notes
 
-Run "MATLAB/test.m" to see an example of ellipse recognition
+Run the test file to see an example of ellipse recognition
 The code reads input image "example.jpg" from the pics directory and produces output "result.jpg" in the pics directory
 
 # Example
